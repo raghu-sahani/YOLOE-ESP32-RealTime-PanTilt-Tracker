@@ -1,0 +1,8 @@
+This project downloads the original Ultralytics yoloe-26s-seg.pt checkpoint.
+Source: https://github.com/ultralytics/assets/releases/download/v8.4.0/yoloe-26s-seg.pt
+Implementation/docs: https://github.com/ultralytics/ultralytics
+https://docs.ultralytics.com/models/yoloe
+Ultralytics licensing information: https://www.ultralytics.com/license
+The project source is provided under AGPL-3.0; see LICENSE.
+Other installed dependencies retain their respective licenses.
+The local visual reference photos remain subject to their owner's rights.
