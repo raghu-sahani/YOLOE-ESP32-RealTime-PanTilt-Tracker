@@ -1,0 +1,5 @@
+{
+  "ball_back": {"file":"ball_back.jpg","box":[145,320,850,1020]},
+  "ball_front": {"file":"ball_front.jpg","box":[0,264,825,1110]},
+  "wheel": {"file":"wheel.jpg","box":[188,382,777,972]}
+}
